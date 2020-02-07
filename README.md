@@ -1,6 +1,5 @@
-# Homework 8 Instruction
+# Twitter Project
 
-**Problem 4**:
   - *Compile Instruction*: 
   	- $ make
   - *Run Instruction*: ./twitter twitter.dat
